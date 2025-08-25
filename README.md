@@ -1,5 +1,5 @@
 <h3 align="center">Passionate full-stack developer 🚀 | MERN enthusiast 🌟 | Building modern web apps to positively impact lives 💻</h3>
-<img align="right" alt="Codingggggg" width="400" src="https://drive.google.com/file/d/1ScXAfCxyLGSRg4lHkgliKtcEvplhCnqn/view?usp=drive_link" />
+<img align="right" alt="Coding" width="400" src="assets/coding.png" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=uzairjalil2&label=Profile%20views&color=0e75b6&style=flat" alt="uzairjalil2" /> </p>
 
